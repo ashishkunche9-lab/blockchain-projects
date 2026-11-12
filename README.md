@@ -11,3 +11,5 @@ screenshots.
    chain catches it.
 2. [Merkle tree](02-merkle-tree): check one record out of many using a
    short proof, without going through everything.
+3. [Proof of work](03-proof-of-work): a small miner that shows why
+   rewriting a blockchain's history is expensive.
