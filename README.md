@@ -15,3 +15,6 @@ screenshots.
    rewriting a blockchain's history is expensive.
 4. [Digital signatures](04-digital-signatures): sign each alarm with
    the operator's key, so you can prove who made an entry.
+5. [Mini wallet](05-mini-wallet): signed payments that stop forged
+   payments, replays and double spends.
+   
