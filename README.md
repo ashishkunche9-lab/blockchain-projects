@@ -13,3 +13,5 @@ screenshots.
    short proof, without going through everything.
 3. [Proof of work](03-proof-of-work): a small miner that shows why
    rewriting a blockchain's history is expensive.
+4. [Digital signatures](04-digital-signatures): sign each alarm with
+   the operator's key, so you can prove who made an entry.
