@@ -9,5 +9,5 @@ screenshots.
 1. [Turbine alarm hash chain](01-turbine-alarm-hashchain): a tamper-evident
    alarm log for a turbine. If anyone edits or deletes an entry, the
    chain catches it.
-
-More coming soon.
+2. [Merkle tree](02-merkle-tree): check one record out of many using a
+   short proof, without going through everything.
